@@ -139,14 +139,15 @@ https://drive.google.com/file/d/1UDU7YBGXT06BF6e6TkZyvS2jSqaPC98m/view?usp=shari
 
 ```bash
 # Clone the repo
-https://github.com/Mohanreddypaluru/BookNest.git
-cd BookNest-SmartBridge
+https://github.com/Mohanreddypaluru/Book_Nest.git
+cd code
 
 # Install dependencies
 npm i
 
 # Start the development server
 npm run dev
+
 
 
 
