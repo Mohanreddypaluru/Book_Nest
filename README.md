@@ -108,7 +108,7 @@ Meet **Sarah**, a busy professional and avid reader who struggles to find time t
 | **P Venkata Mohan Reddy**    | Team Lead    |
 | **S Sathya Sai**             | Developer    |
 | **C Thrivikramrao**          | Developer    |
-| **B V Harshavarhan**         | Developer    |
+| **B V Harshavardhan**        | Developer    |
 |**D Santhosh Kalyan**         | Developer    | 
 
 ---
@@ -147,6 +147,7 @@ npm i
 
 # Start the development server
 npm run dev
+
 
 
 
